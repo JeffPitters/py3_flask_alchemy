@@ -1,0 +1,11 @@
+Flask
+Flask-Babel
+Flask-Login
+SQLAlchemy
+Flask-SQLAlchemy
+WTForms
+Flask-WhooshAlchemy
+Flask-WTF
+flipflop
+flup-py3
+jwcrypto
