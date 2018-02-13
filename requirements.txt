@@ -1,3 +1,4 @@
+gunicorn
 Flask
 Flask-Babel
 Flask-Login
@@ -6,6 +7,4 @@ Flask-SQLAlchemy
 WTForms
 Flask-WhooshAlchemy
 Flask-WTF
-flipflop
-flup-py3
 jwcrypto
